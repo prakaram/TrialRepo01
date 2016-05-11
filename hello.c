@@ -7,3 +7,6 @@ int main(void)
 }
 
 adding first line for first commit
+
+adding second line for second commit
+
